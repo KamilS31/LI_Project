@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/f71ce02229e943b7a3a874526dfa8138/artifacts
+end_time: 1718753692570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f71ce02229e943b7a3a874526dfa8138
+run_name: gaudy-zebra-228
+run_uuid: f71ce02229e943b7a3a874526dfa8138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718753689163
+status: 4
+tags: []
+user_id: jakub

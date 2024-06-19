@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/c96b218db2894e868404b3ebc3d8efd0/artifacts
+end_time: 1718800657003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c96b218db2894e868404b3ebc3d8efd0
+run_name: intelligent-swan-116
+run_uuid: c96b218db2894e868404b3ebc3d8efd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718800650252
+status: 4
+tags: []
+user_id: jakub

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/b06de18b39ba4f59ba00a4e8462ddc85/artifacts
+end_time: 1718747240044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b06de18b39ba4f59ba00a4e8462ddc85
+run_name: sedate-doe-954
+run_uuid: b06de18b39ba4f59ba00a4e8462ddc85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718747229556
+status: 4
+tags: []
+user_id: jakub

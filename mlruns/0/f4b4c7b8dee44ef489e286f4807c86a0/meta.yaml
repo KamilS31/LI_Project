@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/f4b4c7b8dee44ef489e286f4807c86a0/artifacts
+end_time: 1718748552679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4b4c7b8dee44ef489e286f4807c86a0
+run_name: funny-wolf-360
+run_uuid: f4b4c7b8dee44ef489e286f4807c86a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718748550731
+status: 4
+tags: []
+user_id: jakub

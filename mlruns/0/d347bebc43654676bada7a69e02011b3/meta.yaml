@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/d347bebc43654676bada7a69e02011b3/artifacts
+end_time: 1718747156859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d347bebc43654676bada7a69e02011b3
+run_name: upbeat-shark-503
+run_uuid: d347bebc43654676bada7a69e02011b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718747037446
+status: 4
+tags: []
+user_id: jakub

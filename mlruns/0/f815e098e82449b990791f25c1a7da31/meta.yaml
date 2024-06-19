@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/f815e098e82449b990791f25c1a7da31/artifacts
+end_time: 1718749779376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f815e098e82449b990791f25c1a7da31
+run_name: crawling-quail-795
+run_uuid: f815e098e82449b990791f25c1a7da31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718749778452
+status: 4
+tags: []
+user_id: jakub
