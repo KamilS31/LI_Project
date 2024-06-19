@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/f1b4af6d25334072bbc25be7eddf1320/artifacts
+end_time: 1718753586328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1b4af6d25334072bbc25be7eddf1320
+run_name: painted-moose-562
+run_uuid: f1b4af6d25334072bbc25be7eddf1320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718753584131
+status: 4
+tags: []
+user_id: jakub

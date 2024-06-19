@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/38ca01ff3c05471589ab3961c86abbf2/artifacts
+end_time: 1718749093811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38ca01ff3c05471589ab3961c86abbf2
+run_name: intelligent-mule-64
+run_uuid: 38ca01ff3c05471589ab3961c86abbf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718749051224
+status: 3
+tags: []
+user_id: jakub

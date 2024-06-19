@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/765d851d85a54cd49106b905eb0d301c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 765d851d85a54cd49106b905eb0d301c
+run_name: trusting-wren-24
+run_uuid: 765d851d85a54cd49106b905eb0d301c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718755685579
+status: 1
+tags: []
+user_id: jakub

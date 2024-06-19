@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/9f8ffac7d0e54a17a2097a477626ba3e/artifacts
+end_time: 1718798414920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f8ffac7d0e54a17a2097a477626ba3e
+run_name: zealous-boar-768
+run_uuid: 9f8ffac7d0e54a17a2097a477626ba3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718797874554
+status: 3
+tags: []
+user_id: jakub

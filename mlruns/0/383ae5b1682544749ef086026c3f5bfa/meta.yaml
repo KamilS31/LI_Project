@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/383ae5b1682544749ef086026c3f5bfa/artifacts
+end_time: 1718749009644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 383ae5b1682544749ef086026c3f5bfa
+run_name: brawny-penguin-782
+run_uuid: 383ae5b1682544749ef086026c3f5bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718748641189
+status: 4
+tags: []
+user_id: jakub

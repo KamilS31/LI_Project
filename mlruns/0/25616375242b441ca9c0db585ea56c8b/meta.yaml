@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jakub/Desktop/STUDIA/II%20STOPIEN%20GEOINFORMATYKA/Sem%201/Staszel/LI_Project/mlruns/0/25616375242b441ca9c0db585ea56c8b/artifacts
+end_time: 1718754105943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25616375242b441ca9c0db585ea56c8b
+run_name: thundering-ray-438
+run_uuid: 25616375242b441ca9c0db585ea56c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718753907063
+status: 4
+tags: []
+user_id: jakub
